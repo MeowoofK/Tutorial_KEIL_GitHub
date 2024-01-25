@@ -103,5 +103,5 @@ Mewoof:不知道怎么说呢交给zsy补全我写的不一定对
 ### 代码越来越屎想回原来的版本怎么办
 首先，请 **确保自己commit的message认认真真写好了**,否则在追溯版本过程中你就要对着一堆“miao” “.,.,” “yyds” 这种无厘头message思考人生
 
-`git log` 查看commit日志
+`git log` 查看commit日志,记住需要的commit版本 **前六个数字/字母**
 
